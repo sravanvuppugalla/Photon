@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\srava\.android\build-cache\3bad131fa63a4bd7a611d55f5594681485b9111e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\PhotonAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f6278a4912f8eecdc86ab1f1cd29d90acaf27129\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\srava\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\PhotonAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_ac5caf7884aba3c438dd732ce13e7784fca3b62b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\srava\.android\build-cache\5f40a4f8caedccde4584a3a625d54dc1a6b3ccc7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\PhotonAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f5b5538aa755b4e6b30826e116cbce3f5da9c58e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\srava\.android\build-cache\7a27b3c458a06231aec37a36419c28cb4e900532\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\PhotonAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8603af5ed7de51b2fd9e3fc985ace5a9634dcb3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\srava\.android\build-cache\9416df155283fec7b90955a8721b6c26a1fe78ec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\PhotonAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_08d45c05860654589b6d425384b390053cd31db7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\srava\.android\build-cache\05ed9df6e78d985b3df854777d71f1a3e81d5249\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\PhotonAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d98b3f19f6dd36e38c01c4530e939c347f5c0884\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\srava\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\PhotonAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_1ba10ff916eb2ac907ef01a28207e6203e6b3b84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\srava\.android\build-cache\19540c58eefa55e26066defa5cd04cf0f1b86fd8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\PhotonAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_885c316ab81301ee39b2ccdcb647de540ab4be22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\srava\.android\build-cache\045ada88b22522aba7e57329756a7921a70a9d7d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\PhotonAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7eba2dfd9b4b7594162fda33e64434c7fc50325c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\srava\.android\build-cache\03a15d5442ede4d59d75b326a19c53e77cb6038b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\PhotonAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd71486680fb11e0cfe849d8319f8ffd02ecc58e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\srava\.android\build-cache\f1364e2c8e66375fd70fb74bcb7698375725cd27\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\PhotonAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1ca50e2d370ead8e6e0ec791d72a46669e2257db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\PhotonAssignment\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\PhotonAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_bb6577e1fbfa8587b7ff583a7e4c0508b581b162\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\srava\.android\build-cache\ea2897b6e862877804237a8c2e7087dfce4eb5aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\PhotonAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8979cc6018d2a5dc8b254b5393d58daafd720331\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\PhotonAssignment\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e71d9e2574c0978c69e679e1311f6aa0b5db4a9f">
+        <dex dex="C:\PhotonAssignment\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0a0a42c1b07967be87e541c575ad957e86bb5ae6\classes.dex" />
+    </item>
+
+</items>
